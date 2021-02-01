@@ -1,6 +1,7 @@
 ATAJOS EXCEL
 ------------
 
+ALT + ENTER: Poner datos abajo pegado a un titulo
 CTRL + ESPACIO: Selecciona toda la columna
 SHIFT + ESPACIO: Selecciona toda la fila
 
@@ -28,7 +29,8 @@ CTRL + “-”: Elimina toda la fila o columna en caso de haber utilizado
 los dos anteriores
 
 
-CTRL + SHIFT + L: Activa/Desactiva los filtros
+CTRL + SHIFT + L: Activa/Desactiva los filtros **
+
 CTRL + 9: Oculta la fila
 CTRL + SHIFT + 0: Muestra la columna
 CTRL + SHIFT + 9: Muestra la fila
