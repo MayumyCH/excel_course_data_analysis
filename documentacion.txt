@@ -1,0 +1,47 @@
+ATAJOS EXCEL
+------------
+
+CTRL + ESPACIO: Selecciona toda la columna
+SHIFT + ESPACIO: Selecciona toda la fila
+
+CTRL + : Agregar una fila
+CTRL - : Eliminar una fila
+
+CTRL + FLECHA ARRIBA: Sube hasta la ultima celda con valor
+CTRL + FLECHA ABAJO: Baja hasta la ultima celda con valor
+CTRL + FLECHA IZQUIERDA: Ultima celda con valor a la izquierda
+CTRL + FLECHA DERECHA: Ultima celda con valor a la derecha
+CTRL + 0: Oculta la columna
+CTRL + U: Crear nueva hoja en un nuevo archivo excel
+
+Ctrl + Fn + RePag - Moverse entre hojas
+Crtl + Fn + AvPag - Moverse entre hojas
+
+LISTAS
+ALT + : Para ver opciones de la lista
+
+
+
+CTRL + 1: Abre el formato de celdas
+ALT + F11: Abre el editor VBA
+CTRL + “-”: Elimina toda la fila o columna en caso de haber utilizado 
+los dos anteriores
+
+
+CTRL + SHIFT + L: Activa/Desactiva los filtros
+CTRL + 9: Oculta la fila
+CTRL + SHIFT + 0: Muestra la columna
+CTRL + SHIFT + 9: Muestra la fila
+
+
+BIBLIOGRAFIA
+- https://exceltotal.com/atajos-de-teclado-en-excel/
+- https://www.dataeverywhere.com/article/27-incompatible-formulas-between-excel-and-google-sheets/
+
+BIBLIOGRAFIA Google Sheets cheat sheet
+Google Sheets cheat sheet
+https://support.google.com/a/users/answer/9300022?hl=en
+Keyboard shortcuts for Google Sheets
+https://support.google.com/docs/answer/181110?co=GENIE.Platform%3DAndroid&hl=en
+Analyze data in Sheets
+https://support.google.com/docs/answer/9330962?hl=en
